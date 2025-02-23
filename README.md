@@ -7,7 +7,7 @@ This repository outlines the development of a **Sales Dashboard** using **Power 
 
 The objective is to visualize key performance indicators (KPIs) and offer a comprehensive breakdown of sales data with interactive elements.
 
-<img src="./Overview/Sales_Analysis_Dashboard.png" alt="Sales Dashboard" width="500" height="300">
+![Sales Dashboard](./Overview/Sales_Analysis_Dashboard.png) 
 
 ## ⚙️ Requirements
 
@@ -58,6 +58,8 @@ Profit vs LY % = [Profit Vs LY]/[Profit]
 Profit Margin = DIVIDE([Profit],[Sales],0)
 Total Cost = SUM(Sales_Data[Total Cost])
 ```
+
+![Finale Model](./Overview/Sales_Analysis_Finale_Model.png) 
 
 ### 4. 📊 **Data Analysis & Visualization**
 Using the data model and DAX measures, the following visualizations were created:
