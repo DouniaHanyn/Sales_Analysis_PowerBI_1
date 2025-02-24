@@ -4,10 +4,9 @@
 ## 📑 Introduction
 
 This repository outlines the development of a **Sales Dashboard** using **Power BI** aimed at providing valuable insights to stakeholders such as sales managers and executives. The dashboard is designed to analyze sales performance, helping stakeholders better understand year-over-year trends and performance. 
-
 The objective is to visualize key performance indicators (KPIs) and offer a comprehensive breakdown of sales data with interactive elements.
 
-![Sales Dashboard](./Overview/Sales_Analysis_Dashboard.png) 
+![Demo](./Overview/Sales_Analysis_Dashboard_NewOne.gif)
 
 ## ⚙️ Requirements
 
